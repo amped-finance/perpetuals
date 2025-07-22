@@ -2,13 +2,13 @@
   --oui-font-family: 'Manrope', sans-serif;
 
   /* colors */
-  --oui-color-primary: 176 132 233;
-  --oui-color-primary-light: 213 190 244;
-  --oui-color-primary-darken: 137 76 209;
-  --oui-color-primary-contrast: 255 255 255;
+  --oui-color-primary: 166 55 79;
+  --oui-color-primary-light: 247 108 138;
+  --oui-color-primary-darken: 30 30 30;
+  --oui-color-primary-contrast: 174 174 174;
 
-  --oui-color-link: 189 107 237;
-  --oui-color-link-light: 217 152 250;
+  --oui-color-link: 166 55 79;
+  --oui-color-link-light: 247 108 138;
 
   --oui-color-secondary: 255 255 255;
   --oui-color-tertiary: 218 218 218;
@@ -64,8 +64,8 @@
   --oui-gradient-danger-start: 153 24 76;
   --oui-gradient-danger-end: 245 97 139;
 
-  --oui-gradient-brand-start: 231 219 249;
-  --oui-gradient-brand-end: 159 107 225;
+  --oui-gradient-brand-start: 247 108 138;
+  --oui-gradient-brand-end: 166 55 79;
   --oui-gradient-brand-stop-start: 6.62%;
   --oui-gradient-brand-stop-end: 86.5%;
   --oui-gradient-brand-angle: 17.44deg;
@@ -77,12 +77,12 @@
   --oui-gradient-neutral-end: 38 41 46;
 
   /* rounded */
-  --oui-rounded-sm: 2px;
-  --oui-rounded: 4px;
-  --oui-rounded-md: 6px;
-  --oui-rounded-lg: 8px;
-  --oui-rounded-xl: 12px;
-  --oui-rounded-2xl: 16px;
+  --oui-rounded-sm: 12px;
+  --oui-rounded: 16px;
+  --oui-rounded-md: 20px;
+  --oui-rounded-lg: 24px;
+  --oui-rounded-xl: 28px;
+  --oui-rounded-2xl: 32px;
   --oui-rounded-full: 9999px;
 
   /* spacing */
